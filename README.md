@@ -1,0 +1,3 @@
+- This is a Laboratory Activity on Modules 2 and 3 in Computer Science III.
+- The topics covered in this activity are Hypertext Markup Language (HTML) Basics.
+- https://github.com/DenzelDHontanosas/LabActivity02
